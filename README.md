@@ -1,6 +1,6 @@
 # Flacon 
-Flacon is a dark theme built for VsCode. It is inspired by the color scheme of editors such as One Dark and Xcode.
-If you have any suggestions or come accross any bugs, please create a pull request at our GitHub repo.
+Flacon is a dark theme built for VsCode. It is inspired by the color scheme of editors such as Xcode and Atom's One Dark.
+If you have any suggestions or come across any bugs, please create a pull request at our GitHub repo.
 
 
 ![](./preview.png)
