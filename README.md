@@ -3,7 +3,7 @@ Flacon is a dark theme built for VsCode. It is inspired by the color scheme of e
 If you have any suggestions or come accross any bugs, please create a pull request at our GitHub repo.
 
 
-![](./preview.png)
+![](https://raw.githubusercontent.com/Neevash/vscode-falcon-dark-theme/master/preview.png)
 
 
 ## Getting started
