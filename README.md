@@ -1,6 +1,6 @@
 # Flacon 
-Flacon is a dark theme built for VsCode. It is inspired by the color scheme of editors such as One Dark and Xcode.
-If you have any suggestions or come accross any bugs, please create a pull request at our GitHub repo.
+Flacon is a dark theme built for VsCode. It is inspired by the color scheme of editors such as Xcode and Atom's One Dark.
+If you have any suggestions or come across any bugs, please create a pull request at our GitHub repo.
 
 
 ![](https://raw.githubusercontent.com/Neevash/vscode-falcon-dark-theme/master/preview.png)
@@ -36,4 +36,4 @@ Example
 ```
 
 - File Icons 
-While Falcon does not come with any pre-installed file icons, you are free to install your favourite from the VsCode market. Our personal preferance is (Material Icon Theme by Philipp Kief.)[https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme]
+While Falcon does not come with any pre-installed file icons, you are free to install your favourite from the VsCode market. Our personal preferance is [Material Icon Theme by Philipp Kief.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
