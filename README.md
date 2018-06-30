@@ -36,4 +36,4 @@ Example
 ```
 
 - File Icons 
-While Falcon does not come with any pre-installed file icons, you are free to install your favourite from the VsCode market. Our personal preferance is (Material Icon Theme by Philipp Kief.)[https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme]
+While Falcon does not come with any pre-installed file icons, you are free to install your favourite from the VsCode market. Our personal preferance is [Material Icon Theme by Philipp Kief.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
