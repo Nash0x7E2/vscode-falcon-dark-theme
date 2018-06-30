@@ -2,7 +2,7 @@
     "name": "falcon",
     "displayName": "Falcon",
     "description": "Dark theme for vscode ",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Nash",
     "engines": {
         "vscode": "^1.24.0"
