@@ -8,22 +8,23 @@ If you have any suggestions or come across any bugs, please create a pull reques
 
 ## Getting started
 
-- Installation
+- Installation: <br>
 You can install via the Visual Studio Code Market Place. Simply search `falcon-dark` and click install. 
 
-- GitHub 
+- GitHub: <br>
 The GitHub repo for this theme can be found here: https://github.com/Neevash/vscode-falcon-dark-theme
 
 
-- Launch/Activation,
+- Launch/Activation: <br>
 
- Linux `Ctrl + Shift + P`
- macOS `⌘ + Shift + P`
- Windows `Ctrl + Shift + P`
-Type `Color Theme` then select `falcon-dark` to apply the theme. 
+ Linux `Ctrl + Shift + P` <br>
+ macOS `⌘ + Shift + P`<br>
+ Windows `Ctrl + Shift + P`<br>
+ Type `Color Theme` then select `falcon-dark` to apply the theme.
 
+<br>
 
-- Custom Colors
+- Custom Colors: <br>
 If you don't like a particular color, you can customize it in settings to better suite your liking 
 
 Example
@@ -35,5 +36,5 @@ Example
 },
 ```
 
-- File Icons 
+- File Icons: <br>
 While Falcon does not come with any pre-installed file icons, you are free to install your favourite from the VsCode market. Our personal preferance is [Material Icon Theme by Philipp Kief.](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
